@@ -1,0 +1,24 @@
+
+
+* Priemero iniciar el proyecto con la sentencia 
+
+ionic start
+
+* ahí seleccionar la opción para el lenguaje con el que hará el desarrollo, para este caso se usará 
+
+angular
+
+* Seguido de esto seleccionar el tipo de proyecto con el que va a trabajar, para este caso se usará la opción
+
+sidemenu
+
+* Para este caso ignoraremos la carpeta Home que se crea por defecto y agregaremos nuestros propios componentes (pages en ionic), con el comando:
+
+ionic g page nombredelpage
+
+* En el archivo app.component.ts modificaremos los routers del array appPages con los nombres y rutas que hallamos creado
+
+
+
+
+
